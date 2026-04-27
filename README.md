@@ -19,3 +19,4 @@ This is my GitHub portfolio. I'm learning how to use GitHub!
 ✅ PR #12 merged - working toward Silver!
 ✅ PR #13 merged - working toward Silver!
   ✅ PR #15 merged - working toward Silver!
+💬 Working on my Pair Extraordinaire badge!
