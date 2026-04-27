@@ -10,3 +10,4 @@ This is my GitHub portfolio. I'm learning how to use GitHub!
 ✅ PR #3 merged - working toward Silver!
 ✅ PR #4 merged - working toward Silver!
 ✅ PR #5 merged - working toward Silver!
+✅ PR #6 merged - working toward Silver!
