@@ -6,3 +6,4 @@ This is my GitHub portfolio. I'm learning how to use GitHub!
  HELLO!!!
 
  ✅ PR #1 merged - working toward Silver!
+ ✅ PR #2 merged - working toward Silver!
